@@ -1,0 +1,32 @@
+  .paragraph{
+    color:rgb(10, 10, 11);
+    text-align:center;
+   padding:20px;
+   text-align: left;
+   padding-top: 0px;
+   padding-left: 0px;
+   
+  }
+  .article-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(195 231 248);
+}
+.article-content
+{
+        font-size: 20px;
+         text-align: left;
+         padding:0px;
+
+}
+.article-title {
+    color: #d40707;
+    font-size: 28px;
+    text-align: center;
+}
+
+.article-meta {
+    color: #7f8c8d;
+    font-size: 14px;
+}
